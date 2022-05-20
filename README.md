@@ -1,10 +1,7 @@
 ## Olá! Eu sou o Carlos Humberto 🖐️
 
 Sou estudante de Sistemas de informação, pesquisador na área de Inteligência Artificial e um grande entusiasta em Python.
-[![Blog]()]
-
-[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](http://rapberrycorpi.blogspot.com/2018/08/introducao-do-raspberry-pi-no-mundo.html)
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zGummy)
 
 ![zGummy GitHub stats](https://github-readme-stats.vercel.app/api?username=zGummy&show_icons=true&theme=dracula&count_private=true)
 
@@ -26,3 +23,4 @@ Sou estudante de Sistemas de informação, pesquisador na área de Inteligência
 
 </div><br/>
 
+Sou estudante de Sistemas de informação, pesquisador na área de Inteligência Artificial e um grande entusiasta em Python.
