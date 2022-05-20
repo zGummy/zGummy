@@ -3,6 +3,8 @@ Sou estudante de Sistemas de informação, pesquisador na área de Inteligência
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zGummy)
 
 ![zGummy GitHub stats](https://github-readme-stats.vercel.app/api?username=zGummy&show_icons=true&theme=dracula&count_private=true)
+![zGummy GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zGummy&theme=blue-green)
+
 
 ## Tecnologias que eu uso no meu dia
 
@@ -17,7 +19,8 @@ Sou estudante de Sistemas de informação, pesquisador na área de Inteligência
    <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-
+  
+  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 
 </div><br/>
